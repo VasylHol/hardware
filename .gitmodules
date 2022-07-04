@@ -1,0 +1,3 @@
+[submodule "hard-ware"]
+	path = hard-ware
+	url = https://github.com/VasylHol/hardware.git
